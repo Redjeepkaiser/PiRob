@@ -15,3 +15,5 @@ build/
 
 .idea
 .python-version
+.gitignore
+.server.py.swp
